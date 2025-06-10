@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for mcp-proxy-server.
+- fix a small wording issue
