@@ -36,3 +36,4 @@ Notes and usage details for mcp-proxy-server.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
